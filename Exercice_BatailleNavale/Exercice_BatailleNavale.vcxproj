@@ -140,12 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Render.cpp" />
     <ClCompile Include="TBateau.cpp" />
     <ClCompile Include="TCases.cpp" />
     <ClCompile Include="TFlotte.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Define.h" />
+    <ClInclude Include="Render.h" />
     <ClInclude Include="TBateau.h" />
     <ClInclude Include="TCases.h" />
     <ClInclude Include="TFlotte.h" />
